@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Tests running...\"",
-    "build": "echo \"Build running...\"",
+    "afonso": "echo \"Afonyyyyyyyyyyyyy...\"",
+    "build": "CI=false && echo \"Build running...\"",
     "deploy": "echo \"Deploying new build to cloud server...\""
   },
   "repository": {
